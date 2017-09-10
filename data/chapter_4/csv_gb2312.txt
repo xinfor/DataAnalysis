@@ -1,0 +1,6 @@
+id,name,gender,age,edu
+1,张三,男,27,大学
+# 李四很重要
+2,李四,男,25,大学
+3,Tom,M,26,Graduate
+4,小美,女,20,U

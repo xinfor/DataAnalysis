@@ -1,0 +1,5 @@
+name	gender	age	edu
+Sim	M	27	YJS
+Xu	F	25	YJS
+Wang	F	26	BK
+Wu	M	32	BK
